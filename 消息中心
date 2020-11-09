@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T08:53:09.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="HrLTkdRMrKGT3gmXqf4l" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T09:01:49.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="M3Cq_O1Ov_QEcZ0bSyFo" version="13.9.2" type="github">
   <diagram id="qh5H8e-vTjhYBIbovatm" name="Page-1">
     <mxGraphModel dx="1808" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,6 +103,15 @@
             <mxPoint x="-455.34" y="594" as="sourcePoint" />
             <mxPoint x="-455.34" y="647" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dIPGHBtfn934JnhKuruN-40" value="短信第三方服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-777" y="950" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dIPGHBtfn934JnhKuruN-41" value="MOA第三方服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="950" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dIPGHBtfn934JnhKuruN-42" value="邮件SMTP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="950" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
