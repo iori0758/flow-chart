@@ -1,25 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T07:44:07.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="5GzpCEKcbIeBPovu9hKm" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T08:46:59.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="D96_NWCJw30ECgYWeV01" version="13.9.2" type="github">
   <diagram id="qh5H8e-vTjhYBIbovatm" name="Page-1">
-    <mxGraphModel dx="1622" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1808" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dIPGHBtfn934JnhKuruN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="dIPGHBtfn934JnhKuruN-3" target="dIPGHBtfn934JnhKuruN-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dIPGHBtfn934JnhKuruN-10" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="221" width="440" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="dIPGHBtfn934JnhKuruN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIPGHBtfn934JnhKuruN-1">
+        <mxCell id="dIPGHBtfn934JnhKuruN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIPGHBtfn934JnhKuruN-1" target="dIPGHBtfn934JnhKuruN-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-560" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-585" y="240" />
+              <mxPoint x="-722" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dIPGHBtfn934JnhKuruN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIPGHBtfn934JnhKuruN-1" target="dIPGHBtfn934JnhKuruN-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-440" y="180" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dIPGHBtfn934JnhKuruN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIPGHBtfn934JnhKuruN-1" target="dIPGHBtfn934JnhKuruN-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-585" y="240" />
+              <mxPoint x="-453" y="240" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dIPGHBtfn934JnhKuruN-1" value="Nginx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="-645" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dIPGHBtfn934JnhKuruN-2" value="消息中心生产者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-710" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="dIPGHBtfn934JnhKuruN-2" value="&lt;font style=&quot;font-size: 10px&quot;&gt;短信&lt;br&gt;消息中心生产者&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-777" y="261" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dIPGHBtfn934JnhKuruN-3" value="&lt;span&gt;消息中心生产者&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="dIPGHBtfn934JnhKuruN-3" value="&lt;span&gt;MOA&lt;br&gt;消息中心生产者&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="261" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dIPGHBtfn934JnhKuruN-11" value="消息中心MQ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-803" y="541" width="700" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dIPGHBtfn934JnhKuruN-13" value="MOA&lt;br&gt;&lt;span&gt;消息中心生产者&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="331" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dIPGHBtfn934JnhKuruN-14" value="&lt;font style=&quot;font-size: 10px&quot;&gt;短信&lt;br&gt;消息中心生产者&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-777" y="331" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dIPGHBtfn934JnhKuruN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="dIPGHBtfn934JnhKuruN-15" target="dIPGHBtfn934JnhKuruN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dIPGHBtfn934JnhKuruN-15" value="CRM、GSM、NVWA等应用系统发送消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-645" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dIPGHBtfn934JnhKuruN-21" value="&lt;span&gt;邮件&lt;br&gt;消息中心生产者&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-508" y="261" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dIPGHBtfn934JnhKuruN-22" value="&lt;span&gt;邮件&lt;br&gt;消息中心生产者&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-508" y="331" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
